@@ -1,0 +1,7 @@
+{
+  "name": "Sito Finale",
+  "short_name": "Sito",
+  "start_url": ".",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795"
+}
